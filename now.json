@@ -1,0 +1,8 @@
+{
+  "name": "restaurant-app-wes-bos",
+  "version": 2,
+  "env": {
+    "NODE_ENV": "production",
+    "DATABASE": "mongodb+srv://deng:deng@dang-delicious-cug7x.mongodb.net/test"
+  }
+}
