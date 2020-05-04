@@ -1,7 +1,0 @@
-{
-  "name": "restaurant-app-wes-bos",
-  "version": 2,
-  "env": {
-    "DATABASE": "@mongodb-uri"
-  }
-}
